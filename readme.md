@@ -38,8 +38,8 @@ The project uses the ISIC2018 Task3 dataset (HAM10000), which contains skin lesi
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/skin-cancer-classification.git
-cd skin-cancer-classification
+https://github.com/uts58/yolov8-ham10000.git
+cd yolov8-ham10000
 ```
 
 2. Install the required packages:
