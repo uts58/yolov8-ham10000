@@ -1,6 +1,14 @@
 # YOLOv8-Based Deep Learning Approach for Real-Time Skin Lesion Classification Using the HAM10000 Dataset
+<img src="https://github.com/user-attachments/assets/47b490dd-b63a-4f43-b817-ecf668abe8fb" align="right"
+     alt="logo" width="290">
 
 This repository contains code for the paper titled `YOLOv8-Based Deep Learning Approach for Real-Time Skin Lesion Classification Using the HAM10000 Dataset`. The ISIC2018 Task3 dataset (HAM10000) is used for this paper.
+
+This paper was presented at the `2024 International Conference on e-health Networking, Applications and Services (HealthCom)` at `Nara, Japan`.
+
+<br />
+
+DOI: [https://doi.org/10.1109/HealthCom60970.2024.10880715](https://doi.org/10.1109/HealthCom60970.2024.10880715)
 
 ## Dataset
 
@@ -102,6 +110,10 @@ Cite our paper by
   keywords={Measurement;Deep learning;Accuracy;Computational modeling;Skin;Real-time systems;Lesions;Ensemble learning;Skin cancer;Diseases;Skin Cancer;YOLOv8-Classification;Skin Lesion Classification;HAM10000 Dataset;Transfer Learning;Deep Learning},
   doi={10.1109/HealthCom60970.2024.10880715}}
 ```
+
+## IEEE Xplore
+![image](https://github.com/user-attachments/assets/61f485ec-e09f-4cfa-926f-69c71a2faffa)
+
 
 ## Acknowledgments
 
