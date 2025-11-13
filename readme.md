@@ -111,10 +111,6 @@ Cite our paper by
   doi={10.1109/HealthCom60970.2024.10880715}}
 ```
 
-## IEEE Xplore
-![image](https://github.com/user-attachments/assets/61f485ec-e09f-4cfa-926f-69c71a2faffa)
-
-
 ## Acknowledgments
 
 - [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
